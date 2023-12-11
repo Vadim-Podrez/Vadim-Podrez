@@ -3,7 +3,7 @@ ___
 
 - 👋 Hi, I’m Vadim Podrez.
 - 👀 I’m interested in software development with a focus on .NET technologies.
-- 🌱 I’m currently learning PostgreSQL and SQL for efficient data handling beyond ORM usage.
+- 🌱 I’m currently learning MySQL and SQL for efficient data handling beyond ORM usage.
 - 💞️ I’m looking to collaborate on intriguing projects related to .NET development, software architecture, and modern solutions. I'm attracted to teamwork, whether it's coding, knowledge sharing, or creative brainstorming. I'm eagerly looking to collaborate with fellow developers to create outstanding software together.
 - 📫 How to Reach Me:
   You can connect with me through the following channels:
